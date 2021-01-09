@@ -1,0 +1,63 @@
+{
+   "destinations": [
+        {
+            "id":0,
+            "label": "Adventure",
+            "desc": "Explore the hidden waterfall deep inside the Amazon Jungle",
+            "img": "images/img-9.jpg",
+            "loc":"Atalanta",
+            "path": "/services"
+        },
+        {
+            "id":1,
+            "label": "Luxury",
+            "desc": "Travel through the Islands of Bali in a Private Cruise",
+            "img": "images/img-2.jpg",
+            "loc":"Himalaya",
+            "path": "/services"
+          
+        },
+        {
+            "id":2,
+            "label": "Adventure",
+            "desc": "Travel through the Islands of Bali in a Private Cruise",
+            "img": "images/img-7.jpg",
+            "loc":"Rajgir",
+            "path": "/services"
+        },
+        {
+            "id":3,
+            "label": "Mystery",
+            "desc": "Set Sail in the Atlantic Ocean visiting Uncharted Waters",
+            "img": "images/img-3.jpg",
+            "loc":"Bali",
+            "path": "/services"
+           
+        },
+        {
+            "id":4,
+            "label": "Adventure",
+            "desc": "Experience Football on Top of the Himalayan Mountains",
+            "img": "images/img-4.jpg",
+            "loc":"Himalaya",
+            "path": "/products"
+        },
+        {
+            "id":5,
+            "label": "Adrenaline",
+            "desc": "Ride through the Sahara Desert on a guided camel tour",
+            "img": "images/img-8.jpg",
+            "loc":"Sahara",
+            "path": "/products"
+            
+        },
+        {
+            "id":6,
+            "label": "Adventure",
+            "desc": "Explore the hidden waterfall deep inside the Amazon Jungle",
+            "img": "images/img-9.jpg",
+            "loc":"Amazon",
+            "path": "/services"
+        }
+    ]
+}
